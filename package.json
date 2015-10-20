@@ -1,0 +1,18 @@
+{
+  "name": "riot-todo-smaple",
+  "version": "1.0.0",
+  "description": "Riot TODO Sample",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imakei/riot-todo-smaple.git"
+  },
+  "author": "imakei",
+  "bugs": {
+    "url": "https://github.com/imakei/riot-todo-smaple/issues"
+  },
+  "homepage": "https://github.com/imakei/riot-todo-smaple#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
